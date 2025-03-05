@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "age": 20,
+    "gender": "Male",
+    "email": "johndoe@example.com",
+    "phone": "+1-234-567-8901",
+    "address": {
+      "street": "123 Main St",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10001",
+      "country": "USA"
+    },
+    "courses": [
+      {
+        "course_id": "CS101",
+        "course_name": "Introduction to Computer Science",
+        "grade": "A"
+      },
+      {
+        "course_id": "MATH201",
+        "course_name": "Calculus II",
+        "grade": "B+"
+      }
+    ],
+    "gpa": 3.8,
+    "enrollment_status": "Active",
+    "graduation_year": 2026
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "age": 22,
+    "gender": "Female",
+    "email": "janesmith@example.com",
+    "phone": "+1-987-654-3210",
+    "address": {
+      "street": "456 Elm St",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90001",
+      "country": "USA"
+    },
+    "courses": [
+      {
+        "course_id": "ENG101",
+        "course_name": "English Literature",
+        "grade": "A-"
+      },
+      {
+        "course_id": "HIST202",
+        "course_name": "World History",
+        "grade": "B"
+      }
+    ],
+    "gpa": 3.6,
+    "enrollment_status": "Active",
+    "graduation_year": 2025
+  },
+  {
+    "id": 3,
+    "name": "Michael Johnson",
+    "age": 21,
+    "gender": "Male",
+    "email": "michaelj@example.com",
+    "phone": "+1-555-666-7777",
+    "address": {
+      "street": "789 Oak St",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60601",
+      "country": "USA"
+    },
+    "courses": [
+      {
+        "course_id": "PHYS101",
+        "course_name": "Physics I",
+        "grade": "B+"
+      },
+      {
+        "course_id": "CHEM101",
+        "course_name": "Chemistry I",
+        "grade": "A"
+      }
+    ],
+    "gpa": 3.7,
+    "enrollment_status": "Inactive",
+    "graduation_year": 2024
+  }
+]
